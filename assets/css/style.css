@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/gradient_squares.png);
+}
+
+
+.jumbotron {
+    text-align: center;
+    background-color: chocolate;
+    color:white;
+}
+
+#trainTable {
+    border-radius: 5px;
+    width: 85%;
+    margin:0px auto;
+    float:none;
+}
