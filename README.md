@@ -1,5 +1,5 @@
 # Train-Scheduler
-FIrebase, jquery, javascript, bootstrap
+Firebase, jquery, javascript, bootstrap
 
 Welcome to the train, enter your destination,
 Where you would like to go,
